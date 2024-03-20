@@ -67,13 +67,9 @@ function Login({ email, pwd }) {
   };
 
   const handleLogin = async () => {
-    const encryptedPwd = CryptoJS.AES.encrypt(
-      inputPwsValue,
-      process.env.NEXT_PUBLIC_PWD_ENCRYPTION_KEY
-    ).toString();
     const body = {
       email: inputValue,
-      password: encryptedPwd,
+      password: inputPwsValue,
       isRemember,
     };
 
