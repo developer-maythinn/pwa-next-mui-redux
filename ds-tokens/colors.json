@@ -1,0 +1,716 @@
+{
+  "color": {
+    "palette": {
+      "red": {
+        "100": {
+          "value": "#ffe9e9ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#fec4c8ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#fe9b9bff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#fd6d6dff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#fd5151ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#fc2525ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#e52222ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#b31a1aff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#8b1414ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#6a1010ff",
+          "type": "color"
+        }
+      },
+      "aqua": {
+        "100": {
+          "value": "#e9fbfdff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#b9f1f9ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#98ebf6ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#68e2f2ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#4bdcefff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1ed3ebff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1bc0d6ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1596a7ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#117481ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#0d5963ff",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "100": {
+          "value": "#e6f1fcff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#b0d2f5ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#8abdf0ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#549fe9ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#338ce5ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#006fdeff",
+          "type": "color",
+          "comment": "Primary color for background, borders, text and icons in any given interface. It should be used for interactive text or icons like links or buttons."
+        },
+        "700": {
+          "value": "#0065caff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#004f9eff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#003d7aff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#002f5dff",
+          "type": "color"
+        }
+      },
+      "mint": {
+        "100": {
+          "value": "#e6fbf9ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#b1f4edff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#8beee4ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#56e6d8ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#35e1d1ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#03dac5ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#03c6b3ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#029b8cff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#02786cff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#015c53ff",
+          "type": "color"
+        }
+      },
+      "pink": {
+        "100": {
+          "value": "#ffedf6ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#ffc6e2ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#ffaad3ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#ff84bfff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#ff6cb3ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#ff47a0ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#e84192ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#b53272ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#8c2758ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#6b1e43ff",
+          "type": "color"
+        }
+      },
+      "green": {
+        "100": {
+          "value": "#eaf6ecff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#bce4c5ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#9cd7a9ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#6fc482ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#53b96aff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#28a745ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#24983fff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1c7731ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#165c26ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#11461dff",
+          "type": "color"
+        }
+      },
+      "orange": {
+        "100": {
+          "value": "#fff2e9ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#ffd7bbff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#ffc49bff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#ffa96dff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#ff9851ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#ff7e25ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#e87322ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#b5591aff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#8c4514ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#6b3510ff",
+          "type": "color"
+        }
+      },
+      "purple": {
+        "100": {
+          "value": "#f2efffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#d7cdfdff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#c3b5fdff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#a893fcff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#977efbff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#7d5efaff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#7256e4ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#5943b2ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#45348aff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#352769ff",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "100": {
+          "value": "#fef9e8ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#fdedb7ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#fce494ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#fbd864ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#fad145ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#f9c517ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#e3b315ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#b18c10ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#896c0dff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#69530aff",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "50": {
+          "value": "#f5f6f7ff",
+          "type": "color"
+        },
+        "100": {
+          "value": "#ecedefff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e0e2e5ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#c3c7cdff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#b5bac1ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#8c939fff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#707987ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#475365ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#2a384dff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#1c2a41ff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#101f37ff",
+          "type": "color"
+        },
+        "50a": {
+          "value": "#101f370a",
+          "type": "color"
+        },
+        "100a": {
+          "value": "#101f3714",
+          "type": "color"
+        },
+        "200a": {
+          "value": "#101f3721",
+          "type": "color"
+        },
+        "300a": {
+          "value": "#101f3740",
+          "type": "color"
+        },
+        "400a": {
+          "value": "#101f374f",
+          "type": "color"
+        },
+        "500a": {
+          "value": "#101f377a",
+          "type": "color"
+        }
+      },
+      "light-blue": {
+        "100": {
+          "value": "#ebf5ffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#c1dfffff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#a3cfffff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#78b9ffff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#5eacffff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#3697ffff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#3189e8ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#266bb5ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#1e538cff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#173f6bff",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{color.palette.neutral.700.value}",
+        "type": "color",
+        "comment": "Use for primary text, such as body copy, sentence and buttons."
+      },
+      "primary-subtle": {
+        "value": "{color.palette.neutral.500.value}",
+        "type": "color",
+        "comment": "Use for secondary text, such as navigation, subtle button links, input field labels, and all caps subheadings."
+      },
+      "primary-bold": {
+        "value": "{color.palette.neutral.800.value}",
+        "type": "color",
+        "comment": "Use for headers or important information"
+      },
+      "selected": {
+        "value": "{color.palette.neutral.800.value}",
+        "type": "color",
+        "comment": "Use for text in selected or opened states, such as tabs and dropdown buttons."
+      },
+      "inverse": {
+        "value": "{color.palette.neutral.0.value}",
+        "type": "color",
+        "comment": "Use for text on bold backgrounds."
+      },
+      "disabled": {
+        "value": "{color.palette.neutral.400a.value}",
+        "type": "color",
+        "comment": "Use for text in a disabled state."
+      },
+      "info": {
+        "value": "{color.palette.light-blue.500.value}",
+        "type": "color",
+        "comment": "Use for informative text or to communicate something is in progress, such as in-progress lozenges."
+      },
+      "success": {
+        "value": "{color.palette.green.600.value}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{color.palette.blue.600.value}",
+        "type": "color",
+        "comment": "Use for text that reinforces our brand."
+      },
+      "danger": {
+        "value": "{color.palette.red.600.value}",
+        "type": "color",
+        "comment": "Use for critical text, such as input field error messaging."
+      },
+      "warning": {
+        "value": "{color.palette.orange.600.value}",
+        "type": "color",
+        "comment": "Use for text to emphasize caution, such as in moved lozenges."
+      },
+      "warning-inverse": {
+        "value": "{color.palette.neutral.0.value}",
+        "type": "color",
+        "comment": "Use for text when on bold warning backgrounds."
+      },
+      "new": {
+        "value": "{color.palette.purple.600.value}",
+        "type": "color",
+        "comment": "Use for UI that communicates something completely new, such as onboarding or new feature information."
+      },
+      "update": {
+        "value": "{color.palette.yellow.600.value}",
+        "type": "color",
+        "comment": "Use for UI that communicates something new from the existing information."
+      },
+      "accent-red": {
+        "value": "{color.palette.red.600.value}",
+        "type": "color",
+        "comment": "Use for red text on subtlest and subtler red accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-green": {
+        "value": "{color.palette.green.600.value}",
+        "type": "color",
+        "comment": "Use for green text on subtlest and subtler green accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-yellow": {
+        "value": "{color.palette.yellow.600.value}",
+        "type": "color",
+        "comment": "Use for yellow text on subtlest and subtler yellow accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-orange": {
+        "value": "{color.palette.orange.600.value}",
+        "type": "color",
+        "comment": "Use for orange text on subtlest and subtler orange accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-pink": {
+        "value": "{color.palette.pink.600.value}",
+        "type": "color",
+        "comment": "Use for pink text on subtlest and subtler pink accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-aqua": {
+        "value": "{color.palette.aqua.600.value}",
+        "type": "color",
+        "comment": "Use for aqua text on subtlest and subtler aqua accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-mint": {
+        "value": "{color.palette.mint.600.value}",
+        "type": "color",
+        "comment": "Use for mint text on subtlest and subtler mint accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-purple": {
+        "value": "{color.palette.purple.600.value}",
+        "type": "color",
+        "comment": "Use for purple text on subtlest and subtler purple accent backgrounds when there is no meaning tied to the color."
+      },
+      "accent-light-blue": {
+        "value": "{color.palette.light-blue.600.value}",
+        "type": "color",
+        "comment": "Use for light-blue text on subtlest and subtler light-blue accent backgrounds when there is no meaning tied to the color."
+      },
+      "link": {
+        "value": "{color.palette.light-blue.500.value}",
+        "type": "color",
+        "comment": "Use for links in a default or hovered state. Add an underline for hovered states."
+      },
+      "link-pressed": {
+        "value": "{color.palette.light-blue.600.value}",
+        "type": "color",
+        "comment": "Use for links in a pressed state."
+      },
+      "link-visited": {
+        "value": "{color.palette.purple.800.value}",
+        "type": "color",
+        "comment": "Use for links in a visited state."
+      },
+      "primary-light": {
+        "value": "{color.palette.neutral.600.value}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "primary": {
+        "value": "{color.palette.neutral.600.value}",
+        "type": "color",
+        "comment": "Use for icon-only buttons, or icons paired with color.text"
+      },
+      "subtle": {
+        "value": "{color.palette.neutral.500.value}",
+        "type": "color",
+        "comment": "Use for icons paired with color.text.subtle or for unimportant icon usage in a placeholder of input fileds"
+      },
+      "inverse": {
+        "value": "{color.palette.neutral.0.value}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.palette.neutral.400a.value}",
+        "type": "color",
+        "comment": "Use for icons in a disabled state."
+      },
+      "bold": {
+        "value": "{color.palette.neutral.800.value}",
+        "type": "color",
+        "comment": "Use for icons to present important information"
+      },
+      "selected": {
+        "value": "{color.palette.neutral.600.value}",
+        "type": "color",
+        "comment": "Use for icons in selected or opened states, such as those used in dropdown buttons."
+      },
+      "brand": {
+        "value": "{color.palette.blue.600.value}",
+        "type": "color",
+        "comment": "Use for icons that reinforce our brand."
+      },
+      "danger": {
+        "value": "{color.palette.red.600.value}",
+        "type": "color",
+        "comment": "Use for icons communicating critical information, such as those used in error handing."
+      },
+      "warning": {
+        "value": "{color.palette.orange.600.value}",
+        "type": "color",
+        "comment": "Use for icons communicating caution, such as those used in warning section messages."
+      },
+      "success": {
+        "value": "{color.palette.green.600.value}",
+        "type": "color",
+        "comment": "Use for icons communicating a favorable outcome, such as those used in success section messaged."
+      },
+      "information": {
+        "value": "{color.palette.light-blue.500.value}",
+        "type": "color"
+      },
+      "accent-red": {
+        "value": "{color.palette.red.600.value}",
+        "type": "color",
+        "comment": "Use for red icons on non-bold backgrounds when there is no meaning tied to the color, such as file type icons."
+      },
+      "accent-orange": {
+        "value": "{color.palette.orange.600.value}",
+        "type": "color",
+        "comment": "Use for orange icons on non-bold backgrounds when there is no meaning tied to the color, such as file type icons."
+      },
+      "accent-yellow": {
+        "value": "{color.palette.yellow.600.value}",
+        "type": "color",
+        "comment": "Use for yellow icons on non-bold backgrounds when there is no meaning tied to the color, such as file type icons."
+      },
+      "accent-green": {
+        "value": "{color.palette.green.600.value}",
+        "type": "color",
+        "comment": "Use for green icons on non-bold backgrounds when there is no meaning tied to the color, such as file type icons."
+      },
+      "accent-purple": {
+        "value": "{color.palette.purple.600.value}",
+        "type": "color",
+        "comment": "Use for purple icons on non-bold backgrounds when there is no meaning tied to the color, such as file type icons."
+      }
+    }
+  }
+}

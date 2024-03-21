@@ -28,6 +28,7 @@ import {
   loginVerifyResendCodeRequest,
   resetLogin,
 } from "../../../lib/features/auth/login/loginSlice";
+import { ColorIconAccentGreen } from "../../../lib/theme/build/js/tokens";
 
 function Login({ email, pwd }) {
   const router = useRouter();
@@ -151,6 +152,7 @@ function Login({ email, pwd }) {
           variant="contained"
           sx={{ width: "100%" }}
           onClick={handleLogin}
+          color="primary"
         >
           Sign In
         </Button>

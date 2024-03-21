@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "dev": "node generate-tokens.js && next dev",
+    "build": "node generate-tokens.js && next build",
+    "start": "node generate-tokens.js && next start"
   },
   "dependencies": {
     "@emotion/styled": "^11.11.0",
